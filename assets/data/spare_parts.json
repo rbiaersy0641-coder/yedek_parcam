@@ -1,0 +1,228 @@
+
+[
+  {
+    "name": "HEPA Filtre",
+    "category": "Filtre",
+    "device": "Xiaomi Robot Vacuum S10",
+   "imagePath": "assets/images/01_hepa_filter.png",
+    "price": 349.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "HEPA Filtre İkili Paket",
+    "category": "Filtre",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/02_hepa_filter_ikili_paket.png",
+    "price": 599.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "HEPA Filtre Üçlü Paket",
+    "category": "Filtre",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/03_hepa_filter_uclu_paket.png",
+    "price": 829.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "Filtre ve Temizlik Fırçası Seti",
+    "category": "Filtre",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/04_filtre_temizlik_fircasi_seti.png",
+    "price": 429.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "Yedek Filtre Bakım Paketi",
+    "category": "Filtre",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/05_yedek_filtre_bakim_paketi.png",
+    "price": 699.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "Ana Fırça",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/06_ana_firca.png",
+    "price": 329.90,
+    "icon": "brush",
+    "color": 4288377551
+  },
+  {
+    "name": "Ana Fırça İkili Set",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/07_ana_firca_ikili_set.png",
+    "price": 599.90,
+    "icon": "brush",
+    "color": 4288377551
+  },
+  {
+    "name": "Ana Fırça ve Fırça Kapağı",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/08_ana_firca_firca_kapagi.png",
+    "price": 529.90,
+    "icon": "brush",
+    "color": 4288377551
+  },
+  {
+    "name": "Ana Fırça Bakım Seti",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/09_ana_firca_bakim_seti.png",
+    "price": 479.90,
+    "icon": "brush",
+    "color": 4288377551
+  },
+  {
+    "name": "Ana ve Yan Fırça Seti",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/10_ana_yan_firca_seti.png",
+    "price": 499.90,
+    "icon": "brush",
+    "color": 4288377551
+  },
+  {
+    "name": "Yan Fırça",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/11_yan_firca.png",
+    "price": 149.90,
+    "icon": "sideBrush",
+    "color": 4283338239
+  },
+  {
+    "name": "Yan Fırça İkili Set",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/12_yan_firca_ikili_set.png",
+    "price": 229.90,
+    "icon": "sideBrush",
+    "color": 4283338239
+  },
+  {
+    "name": "Yan Fırça Dörtlü Set",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/13_yan_firca_dortlu_set.png",
+    "price": 389.90,
+    "icon": "sideBrush",
+    "color": 4283338239
+  },
+  {
+    "name": "Yan Fırça Altılı Set",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/14_yan_firca_altili_set.png",
+    "price": 529.90,
+    "icon": "sideBrush",
+    "color": 4283338239
+  },
+  {
+    "name": "Yan Fırça Bakım Paketi",
+    "category": "Fırça",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/15_yan_firca_bakim_paketi.png",
+    "price": 319.90,
+    "icon": "sideBrush",
+    "color": 4283338239
+  },
+  {
+    "name": "Mikrofiber Mop Pedi",
+    "category": "Paspas",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/16_mikrofiber_mop_pedi.png",
+    "price": 189.90,
+    "icon": "mop",
+    "color": 4281775258
+  },
+  {
+    "name": "Mop Pedi İkili Paket",
+    "category": "Paspas",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/17_mop_pedi_ikili_paket.png",
+    "price": 329.90,
+    "icon": "mop",
+    "color": 4281775258
+  },
+  {
+    "name": "Mop Pedi Üçlü Paket",
+    "category": "Paspas",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/18_mop_pedi_uclu_paket.png",
+    "price": 449.90,
+    "icon": "mop",
+    "color": 4281775258
+  },
+  {
+    "name": "Mop Pedi Dörtlü Paket",
+    "category": "Paspas",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/19_mop_pedi_dortlu_paket.png",
+    "price": 569.90,
+    "icon": "mop",
+    "color": 4281775258
+  },
+  {
+    "name": "Mop Pedi Bakım Seti",
+    "category": "Paspas",
+    "device": "Xiaomi Robot Vacuum S10",
+    "imagePath": "assets/images/20_mop_pedi_bakim_seti.png",
+    "price": 389.90,
+    "icon": "mop",
+    "color": 4281775258
+  },
+  {
+    "name": "Q7 Max Yıkanabilir Filtre",
+    "category": "Filtre",
+    "device": "Roborock Q7 Max",
+    "imagePath": "assets/images/21_q7_max_yikanabilir_filtre.png",
+    "price": 299.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "Q7 Max Filtre İkili Set",
+    "category": "Filtre",
+    "device": "Roborock Q7 Max",
+    "imagePath": "assets/images/22_q7_max_filtre_ikili_set.png",
+    "price": 499.90,
+    "icon": "air",
+    "color": 4283338239
+  },
+  {
+    "name": "Q7 Max Ana Fırça",
+    "category": "Fırça",
+    "device": "Roborock Q7 Max",
+    "imagePath": "assets/images/23_q7_max_ana_firca.png",
+    "price": 399.90,
+    "icon": "brush",
+    "color": 4288377551
+  },
+  {
+    "name": "Q7 Max Yan Fırça İkili Set",
+    "category": "Fırça",
+    "device": "Roborock Q7 Max",
+    "imagePath": "assets/images/24_q7_max_yan_firca_ikili_set.png",
+    "price": 219.90,
+    "icon": "sideBrush",
+    "color": 4283338239
+  },
+  {
+    "name": "Q7 Max Mop Bezi İkili Paket",
+    "category": "Paspas",
+    "device": "Roborock Q7 Max",
+    "imagePath": "assets/images/25_q7_max_mop_bezi_ikili_paket.png",
+    "price": 259.90,
+    "icon": "mop",
+    "color": 4281775258
+  }
+]
